@@ -1,1 +1,4 @@
-Collection of methods to implement the Wilks Coefficient into projects.
+wilksCoefficient
+================
+
+A collection of methods to implement the Wilks Coefficient into projects.
